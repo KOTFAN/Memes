@@ -1,15 +1,15 @@
-# Memes
+# 🧙‍♂️ dev-memes
 
-A high-quality collection of memes about **development**
+A sacred archive of developer memes — collected not just for laughs, but for mental survival.  
+No more scrolling endless feeds. No more digging through group chats. The memes are here, version-controlled, and ready to deploy directly into your soul.
 
-If you’ve ever screamed at a merge conflict, renamed a file 5 times (`final_final_REAL_final.css`), or sacrificed your sanity to the CSS gods — you’re in the right place.
+This repo exists for one reason:  
+⚠️ Because some days, the only thing standing between you and rage-quitting is a well-timed meme about `useEffect`.
 
-This repo includes:
-- Dev pain, served fresh
-- Git horrors, cursed commits
-- Code that runs but shouldn’t
-- Memes that hit harder than a failed deploy on Friday
+👇 Inside you’ll find:
+- Memes about frontend, backend, fullstack, and full-broke  
+- Jokes about Git, npm, and that one guy who force-pushes to `main`  
+- TypeScript pain, React drama, and CSS breakdowns  
+- And much more...
 
-> ⚠️ Warning: These memes contain 100% pure developer energy. Handle with caffeine.
-
-Contribute if you dare. Laugh or cry — we don't judge.
+💬 Contributions welcome. Drop your memes like hotfixes — fast, funny, and with questionable test coverage.
